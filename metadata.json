@@ -1,0 +1,6 @@
+{
+  "name": "SuperDigital - Digital Products Platform",
+  "description": "Production-ready, self-hosted digital products selling platform foundation with Supabase PostgreSQL, Auth, RBAC, and secure Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
